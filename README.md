@@ -192,7 +192,7 @@ My goal is to leverage data to support better business decisions by combining st
 ## Connect With Me
 
 - GitHub: https://github.com/krzysztof-zak
-- LinkedIn: www.linkedin.com/www.linkedin.com/in/krzysztof-zak
+- LinkedIn: www.linkedin.com/in/krzysztof-zak
 
 
 
